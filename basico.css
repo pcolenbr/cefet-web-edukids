@@ -166,6 +166,7 @@ body {
 
 .animal {
   display: inline-block;
+  border-radius: 110px;
 }
 
 .animal > img {
